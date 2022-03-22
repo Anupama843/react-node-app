@@ -4,10 +4,10 @@
 
 ### npm install
 
-### for client
+### for client (should start at http://localhost:3000/)
 `npm start` 
 
-### for server
+### for server (should start at http://localhost:3001/)
 `npm start` 
 
 ### Once both the servers are stated the app will work
