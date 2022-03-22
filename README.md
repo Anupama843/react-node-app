@@ -3,21 +3,21 @@
 ## Download/clone the repo and follow the below steps
 
 ### npm install for Node.js and React
-`
+```
 npm start
 cd client
 npm start
-`
+```
 
 ### for client (should start at http://localhost:3000/)
 `npm start` 
 
 ### for server (should start at http://localhost:3001/)
 
-`
+```
 cd client
 npm start
-` 
+```
 
 ### Once both the servers are stated the app will work
 
