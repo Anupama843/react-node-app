@@ -8,7 +8,7 @@
 `npm start` 
 
 ### for server
-`node index.js` 
+`npm start` 
 
 ### Once both the servers are stated the app will work
 
