@@ -3,16 +3,22 @@
 ## Download/clone the repo and follow the below steps
 
 ### npm install for Node.js and React
+#### npm install for Node.js
 ```
-npm start
+npm install
+```
+#### npm install for Node.js
+```
 cd client
+npm install
+```
+
+### for server (should start at http://localhost:3001/)
+```
 npm start
 ```
 
 ### for client (should start at http://localhost:3000/)
-`npm start` 
-
-### for server (should start at http://localhost:3001/)
 
 ```
 cd client
