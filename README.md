@@ -7,7 +7,7 @@
 ```
 npm install
 ```
-#### npm install for Node.js
+#### npm install for React App
 ```
 cd client
 npm install
