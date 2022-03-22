@@ -4,9 +4,11 @@
 
 ### npm install
 
-### npm start for client
+### for client
+`npm start` 
 
-### node index.js for server
+### for server
+`node index.js` 
 
 ### Once both the servers are stated the app will work
 
