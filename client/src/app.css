@@ -1,0 +1,14 @@
+.app {
+  width: 60%;
+  text-align: center;
+  margin : 2rem;
+  border: 2px solid black;
+  border-radius: 25px;
+}
+form {
+  display: inline;
+}
+input{
+  margin: .5rem;
+}
+
